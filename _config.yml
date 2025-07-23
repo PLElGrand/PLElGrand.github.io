@@ -1,0 +1,6 @@
+title: "Your Name"
+description: "My developer portfolio"
+baseurl: "" # Leave blank for GitHub Pages root
+url: "https://PLElGrand.github.io"
+
+theme: minima # or remove this if you use your own layout

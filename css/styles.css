@@ -44,3 +44,8 @@ footer {
     color: #555;
     margin-top: 40px;
 }
+nav{
+    border: 2px solid;
+    border-radius: 70px;
+    display: flex;
+}
